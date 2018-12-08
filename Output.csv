@@ -1,0 +1,118 @@
+,Driver Space,Laptop Name,OS Type,Processor type,RAM Size,Screen size,price
+0,128GB SSD,Asus VivoBook X4,Endless OS,Celeron N3450,4GB,"14""",$295.99
+1,32GB,Prestigio SmartB,Windows 10 Pro + Office 365 1 gadam,Celeron N3350 1.1GHz,4GB,"13.3"" FHD IPS",$299.00
+2,32GB,Prestigio SmartB,Windows 10 Pro + Office 365 1 gadam,Celeron N3350 1.1GHz,4GB,"13.3"" FHD IPS",$299.00
+3,Linux,Aspire E1-,,4GB,500GB,Pentium N3520 2.16GHz,$306.99
+4,128GB SSD,Lenovo V110-15IA,Windows 10 Home,Celeron N3350 1.1GHz,4GB,"15.6"" HD",$321.94
+5,500GB,Lenovo V110-15IA,Windows 10 Home,Pentium N4200,4GB,"15.6"" HD",$356.49
+6,128GB SSD,Hewlett Packard,DOS,Celeron N3060 1.6GHz,4GB,"15.6"" HD",$364.46
+7,128GB SSD,Acer Aspire 3 A3,Windows 10 Home,Celeron N3350 1.1GHz,4GB,"15.6"" HD",$372.70
+8,128GB,Acer Aspire A315,Windows 10 Home,Celeron N3350,4GB DDR3L,HD,$379.94
+9,128GB SSD,Acer Aspire ES1-,Linux,Core i3-6006U,4GB,"15.6"" HD",$379.95
+10,128GB SSD,Acer Aspire 3 A3,Windows 10 Home,Pentium N4200 1.1GHz,4GB,"15.6"" HD",$391.48
+11,,Acer Aspire 3 A3,,AMD A4-9120. 4GB. 128GB SSD,Linux,"15.6""",$393.88
+12,500GB,Asus VivoBook Ma,Windows 10 Home,Pentium N4200 1.1GHz,4GB,"15.6"" HD",$399.00
+13,128GB SSD,Asus VivoBook E5,Windows 10 Home,Pentium N4200 1.1GHz,4GB,"15.6"" HD",$399.99
+14,128GB SSD,Lenovo ThinkPad,Windows 10 Home,Celeron 3855U 1.6GHz,4GB,"13.3"" HD",$404.23
+15,128GB SSD,Acer Aspire 3 A3,Windows 10 Home,Pentium N4200 1.1GHz,4GB,"15.6"" HD",$408.98
+16,128GB SSD,Lenovo V110-15IS,Windows 10 Home,Core i3-6006U,8GB,"15.6"" HD",$409.63
+17,4GB,Acer Aspire ES1-,1TB,Celeron,N3350,"17.3"" HD+",$410.46
+18,128GB SSD,Asus VivoBook 15,Windows 10 Home,Pentium N4200,4GB,"15.6"" HD",$410.66
+19,Windows 8.1,Packard 255,,4GB,500GB,AMD E2-3800 1.3GHz,$416.99
+20,128GB eMMC,Asus EeeBook R41,Windows 10 Home,Pentium N4200,4GB,"14"" FHD",$433.30
+21,1TB,Acer Aspire 3 A3,Windows 10 Home,Core i3-6006U,4GB,"15.6"" HD",$436.29
+22,500GB,Acer Aspire ES1-,Windows 10 Home,Core i3-6006U,4GB,"15.6"" HD",$436.29
+23,500GB,Acer Extensa 15,Linux,Core i5-7200U,4GB,"15.6"" HD",$439.73
+24,500GB,Acer Aspire ES1-,Linux,Core i5-7200U,4GB,"15.6"" HD",$454.62
+25,128GB SSD,Lenovo V110-15IS,Windows 10 Pro,Core i3-6006U,4GB,"15.6"" HD",$454.73
+26,128GB SSD,Acer Aspire A315,Windows 10 Home,Core i3-7100U,4GB DDR4,"Black 15.6"" HD",$457.38
+27,500GB,Lenovo V110-15IK,DOS,Core i5-7200U,4GB,"15.6"" HD",$465.95
+28,256GB SSD,Asus VivoBook 15,Endless OS,Core i3-6006U,4GB,"15.6"" FHD",$468.56
+29,128GB SSD,Acer Aspire ES1-,Windows 10 Home,Core i3-6006U,4GB,"15.6"" HD",$469.10
+30,128GB SSD,Lenovo V510 Blac,Windows 10 Home,Core i3-6006U,4GB,"14"" HD",$484.23
+31,128GB SSD,Acer Aspire ES1-,Linux,Core i5-7200U,4GB,"15.6"" HD",$485.90
+32,128GB SSD,Lenovo V510 Blac,Windows 10 Home,Core i3-6006U,4GB,"15.6"" HD",$487.80
+33,128GB SSD,Acer Swift 1 SF1,Windows 10 Home,Pentium N4200,4GB,"13.3"" FHD",$488.64
+34,128GB SSD,Dell Vostro,Radeon R5 M420 2GB,Core i5-7200U,4GB,"15.6"" FHD",$488.78
+35,500GB + 128GB SSD,Acer Aspire 3 A3,Windows 10 Home,Core i3-7100U,4GB,"15.6"" FHD",$494.71
+36,1TB,Dell Vostro 15 (,Radeon R5 M420 2GB,Core i5-7200U,4GB,"15.6"" HD",$497.17
+37,128GB SSD,Lenovo V510 Blac,Windows 10 Pro,Core i3-7100U,4GB,"15.6"" FHD",$498.23
+38,Windows 8.1,HP 250,,4GB,500GB,Core i5-4210U,$520.99
+39,128GB SSD,Acer Spi,Windows 10 Home,Core i3-7100U,4GB,"13.3"" FHD Touch",$564.98
+40,Radeon HD8670M 2GB,HP 350,Windows,4GB,750GB,Core i5-4200U,$577.99
+41,Radeon R7 M265,Aspire E1-5,Windows 8.1,8GB,1TB,Core i5-4200U,$581.99
+42,Windows 8.1,Pavil,,6GB,750GB,Core i5-4200U,$609.99
+43,Core i5-8250U,Acer Aspire A515,8GB DDR4,"15.6""",FHD,Black,$679.00
+44,1TB,Dell Inspiron,Radeon R7 M445 4GB,Core i5-7200U,8GB,"15.6"" FHD",$679.00
+45,256GB SSD,Asus VivoBook S1,Windows 10 Home,Core i5-8250U,8GB,"14""",$729.00
+46,Win7 Pro 64bit,ProB,,4GB,500GB,Core i5 2.6GHz,$739.99
+47,1TB,Inspiron,Radeon HD R7 M265 2GB,Core i7-4510U,8GB,"15.6""",$745.99
+48,1TB,Asus ROG STRIX G,GeForce GTX 1050 2GB,Core i5-7300HQ,8GB,"15.6"" FHD",$799.00
+49,1TB,Acer Nitro 5 AN5,GeForce GTX 1050 2GB,Core i5-7300HQ,8GB,"15.6"" FHD IPS",$809.00
+50,1TB,Asus ROG STRIX G,GeForce GTX 1050 2GB,Core i5-7300HQ,8GB,"15.6"" FHD",$899.00
+51,256GB SSD,Lenovo ThinkPad,Windows 10 Pro,Core i7-7500U,8GB,"15.6"" FHD",$999.00
+52,,ThinkPad Y,,4GB,500GB + 16GB SSD Cache,Core i3-4010U,$1033.99
+53,256GB SSD,Lenovo ThinkPad,Windows 10 Pro,Core i7-6600U,8GB,"14"" FHD IPS",$1096.02
+54,256GB SSD,Dell Inspiron 15,GeForce GTX 1050 4GB,Core i5-7300HQ,8GB,"15.6"" FHD",$1098.42
+55,1TB + 128GB SSD,MSI GL72M 7,GeForce GTX 1050 2GB,Core i5-7300HQ,8GB,"17.3"" FHD",$1099.00
+56,1TB + 128GB SSD,MSI GL72M 7,GeForce GTX 1050 2GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1099.00
+57,Intel HD 4000,Asus ROG Strix G,RUS,8GB,128GB SSD,Core i5 1.8GHz,$1101.83
+58,256GB SSD,Dell Latitude 52,Windows 10 Pro,Core i5-7300U,8GB,"12.5"" HD",$1102.66
+59,500GB,Dell Latitude 54,Linux + Windows 10 Home,Core i5-7300U,8GB,"14"" FHD",$1110.14
+60,8 GB,Lenovo Legion Y5,128GB SSD + 2 TB HDD,"15.6"" FHD IPS",Core i5-7300HQ,Black,$1112.91
+61,256GB SSD,Toshiba Portege,Windows 10 Pro,Core i5-6200U,8GB,"13.3"" FHD",$1114.55
+62,1TB + 128GB SSD,Acer Predator He,GeForce GTX 1050Ti 4GB,Core i5-7300HQ,8GB,"17.3"" FHD IPS",$1123.87
+63,128GB SSD + 1TB HDD,Acer Aspire 7 A7,GTX 1050 Ti 4GB,Core i7-7700HQ,8GB,"15.6"" FHD IPS",$1123.87
+64,1TB,Dell Inspiron 17,GeForce GT940MX 2GB,Core i5-7200U,12GB,"17.3"" FHD Touch",$1124.20
+65,500GB,Dell Latitude 54,Windows 10 Pro,Core i5-7300U,8GB,"14"" FHD",$1133.82
+66,128 GB SSD + 1TB HDD,Lenovo Legion Y5,GTX 1050 4GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1133.91
+67,128GB SSD,Asus AsusPro Adv,Win7 Pro 64bit,Core i5-4210U,4GB,"14""",$1139.54
+68,256GB SSD +1TB,Acer Nitro 5 AN5,GeForce GTX 1050 Ti 4GB,Core i7-7700HQ,8GB,"15.6"" FHD IPS",$1140.62
+69,256GB SSD,Dell Latitude 54,Windows 10 Pro,Core i5-7440HQ,8GB,"14"" FHD",$1143.40
+70,1TB,Dell Inspiron 15,GeForce GTX 1050 Ti 4GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1144.20
+71,256GB SSD,Dell Latitude 55,Windows 10 Pro,Core i5-7300U,8GB,"15.6"" FHD",$1144.40
+72,1TB + 128GB SSD,MSI GP62M 7RDX L,GeForce GTX 1050 2GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1149.00
+73,128GB SSD + 1TB,Lenovo Legion Y5,GeForce GTX 1060 Max-Q 6GB,Core i7-7700HQ,8GB,"15.6"" FHD IPS",$1149.00
+74,256GB SSD,Lenovo Yoga 720,GeForce GTX 1050 2GB,Core i5-7300HQ,8GB,"15.6"" FHD IPS",$1149.73
+75,256GB SSD,Toshiba Portege,Windows 10 Pro,Core i7-6500U,8GB,"13.3"" FHD",$1154.04
+76,256GB SSD,Acer TravelMate,3G,Core i5-5200U,8GB,"14"" FHD IPS",$1170.10
+77,256GB SSD,Dell Latitude 55,Linux + Windows 10 Home,Core i5-7300U,16GB,"15.6"" FHD",$1178.19
+78,Win7 Pro 64bit,ThinkPad T5,,4GB,500GB,Core i5-4200M,$1178.99
+79,256GB SSD,MSI GS63 7RD Ste,GeForce GTX 1050 2GB,Core i7-7700HQ,8GB,"15.6"" FHD IPS",$1179.00
+80,256GB SSD,Dell Latitude 54,Windows 10 Pro,Core i5-7300U,8GB,"14"" FHD",$1187.88
+81,GeForce GTX 1050Ti 4GB,Acer Predator He,Linux + Windows 10 Home,Core i7-7700HQ. 8GB,128GB SSD +1TB,"17.3"" FHD IPS",$1187.98
+82,1TB + 128GB SSD,MSI GL62M 7,GeForce GTX 1050 Ti 2GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1199.00
+83,1TB + 128GB SSD,MSI GL62M 7R,GeForce GTX 1050 Ti 2GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1199.00
+84,256GB SSD,Lenovo Yoga 910,Windows 10 Home,Core i5-7200U,8GB,"13.9"" FHD Touch",$1199.73
+85,256GB SSD,Toshiba Portege,Windows 10 Pro,Core i5-7200U,8GB,"13.3"" FHD IPS",$1203.41
+86,256GB SSD,Lenovo IdeaPad M,4G,Core i5-7200U,8GB,"12.2"" IPS Touch",$1212.16
+87,1TB + 128GB SSD,Acer Predator He,GeForce GTX 1050 Ti 4GB,Core i7-7700HQ,8GB,"17.3"" FHD IPS",$1221.58
+88,Windows,ThinkPad Y,,8GB,500GB + 16GB SSD Cache,Core i5 4200U,$1223.99
+89,1TB + 256GB SSD,Asus VivoBook Pr,GeForce MX150 2GB,Core i7-7700HQ,16GB,"15.6"" UHD",$1235.49
+90,256GB SSD,Dell Latitude 54,Linux,Core i7-7600U,8GB,"14"" FHD",$1238.37
+91,512GB SSD,Asus ZenBook UX5,GeForce GTX950M 2GB,Core i7-7500U,8GB,"15.6"" FHD",$1239.20
+92,Win7 Pro 64bit,ThinkPad X,,8GB,180GB SSD,Core i5 2.6GHz,$1244.99
+93,1TB + 128GB SSD,Asus ROG Strix G,GeForce GTX 1050 Ti 4GB,Core i7-7700HQ,8GB,"17.3"" FHD",$1259.00
+94,Intel HD 6000,Apple MacBook Ai,ENG,8GB,256GB SSD,i5 1.8GHz,$1260.13
+95,1TB,Dell Latitude 54,GeForce GT930MX,Core i7-7600U,8GB,"14"" FHD",$1271.06
+96,256GB SSD,Hewlett Packard,Windows 10 Home,Core i5-7200U,8GB,"13.3"" FHD IPS",$1273.11
+97,Windows 8.1,Dell XPS,,8GB,128GB SSD,Core i5-4210U,$1281.99
+98,256GB SSD,Toshiba Portege,4G,Core i5-6200U,8GB,"13.3"" FHD",$1294.74
+99,1TB + 256GB SSD,MSI GL62VR 7,GeForce GTX 1060 3GB,Core i7-7700HQ,8GB,"15.6"" FHD",$1299.00
+100,256GB SSD,Dell Latitude 54,Windows 10 Pro,Core i7-7600U,8GB,"14"" FHD",$1310.39
+101,Win7 Pro 64bit,ThinkPad X,,8GB,240GB SSD,Core i5-4300U,$1311.99
+102,256GB SSD,Hewlett Packard,Windows 10 Pro,Core i7-7600U,8GB,"14"" FHD",$1326.83
+103,Iris Plus 640,Apple MacBook Pr,ENG,8GB,128GB SSD,Core i5 2.3GHz,$1333.00
+104,256GB SSD,Dell Latitude 55,GeForce GT930MX,Core i7-7600U,8GB,"15.6"" FHD",$1337.28
+105,256GB SSD,Dell Latitude 54,Linux + Windows 10 Home,Core i7-7600U,8GB,"14"" FHD",$1338.37
+106,256GB SSD,Dell Latitude 55,GeForce GT930MX,Core i7-7600U,16GB,"15.6"" FHD",$1341.22
+107,Intel HD 6000,Apple MacBook Ai,RUS,8GB,256GB SSD,Intel Core i5 1.8GHz,$1347.78
+108,256GB SSD,Lenovo ThinkPad,Windows 10 Pro,Core i5-7200U,8GB,"14"" FHD IPS",$1349.23
+109,256GB SSD,Lenovo ThinkPad,4G,Core i5-7200U,8GB,"13.3"" FHD IPS Touch",$1362.24
+110,512GB SSD,Toshiba Portege,Windows 10 Pro,Core i7-7500U,8GB,"12.5"" FHD Touch",$1366.32
+111,512GB SSD,Asus ASUSPRO B94,Windows 10 Pro,Core i7-7500U,16GB,"14"" FHD",$1381.13
+112,1TB + 128GB SSD,Asus ROG Strix G,GeForce GTX 1060 3GB,Core i7-7700HQ,8GB,"17.3"" FHD",$1399.00
+113,128GB SSD + 2TB HDD,Lenovo Legion Y7,GeForce GTX 1060 6GB,Core i7-7700HQ,8GB,"15.6"" FHD IPS",$1399.00
+114,256GB + 1TB HDD,Asus ROG Strix G,Radeon RX 580 4GB,Ryzen 7 1700,16GB,"17.3"" FHD",$1769.00
+115,256GB SSD + 1TB HDD,Asus ROG Strix G,Radeon RX 580 4GB,Ryzen 7 1700,16GB,"17.3"" FHD IPS",$1769.00
+116,256GB SSD + 1TB SSHD,Asus ROG Strix S,GeForce GTX 1060 6GB,Core i7-7700HQ,16GB,"15.6"" FHD 120Hz",$1799.00
